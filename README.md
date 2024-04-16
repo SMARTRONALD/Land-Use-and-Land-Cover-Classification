@@ -16,4 +16,4 @@ The process involves iterating through class folders in the EuroSAT dataset, ext
 A Random Forest Classifier is employed to learn patterns in spectral features extracted from satellite imagery. The model achieved an accuracy score of 82.04% on the test set, demonstrating its ability to generalize well to new data and effectively classify land use and land cover categories.
 
 # References
-EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification. 
+EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification. '[Download the dataset here] (https://zenodo.org/records/7711810#.ZAm3k-zMKEA)'
